@@ -40,6 +40,9 @@ header h1{
     height: 50px;
     width: 100px;
     border: 0cap;
+    transition:color 5s ease 0s;
+    transition: background-color 5s ease 0s;
+
 }
 .button:hover{
     color: white;
