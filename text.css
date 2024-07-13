@@ -40,13 +40,15 @@ header h1{
     height: 50px;
     width: 100px;
     border: 0cap;
-    transition:color 5s ease 0s;
-    transition: background-color 5s ease 0s;
+    transition:all 3s ease 0s;
+
 
 }
 .button:hover{
     color: white;
-background-color: rgba(30, 6, 100, 0.822)
+background-color: rgba(30, 6, 100, 0.822);
+transform: translateY(-7px);
+
 
 }
 img{
